@@ -1,0 +1,52 @@
+
+well, small phase
+http://screencast-o-matic.com/watch/c2hhYqnx5l
+
+
+
+wsp1
+dt=.001, T=6
+b=.9, alpha=0, L=pi/20
+
+
+wsp2
+dt=.001, T=6
+b=.1, alpha=0, L=pi/100
+
+
+wlp1
+dt=.001
+b=.9, alpha=pi/3, L=pi/8
+
+wlp2
+dt=.001
+b=.5, alpha=pi/2, L=pi/10
+
+bsp1
+dt=.001, T=6
+b=1.1, alpha=0, L=pi/12
+
+
+bsp2
+dt=.001, T=6
+b=1.1, alpha=pi/10, L=pi/16
+
+bsp3
+dt=.001,
+b=1.05, alpha=0, L=pi/8
+
+bsp4
+dt=.001, T=6
+b=1.1, alpha=0, L=pi/100
+
+
+blp1
+dt=.001,
+b=1.1, alpha=pi/3, L=pi/16
+
+
+blp2
+dt=.001, 
+b=1.1, alpha=pi/3, L=pi/4
+
+
